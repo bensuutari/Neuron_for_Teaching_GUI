@@ -20,7 +20,7 @@ Carnevale, N.T. and Hines, M.L. The NEURON Book.
 Cambridge, UK: Cambridge University Press, 2006. 
 
 
-![alt text](screenshots/defaultscreen.png "This is the screen you will see on opening")
+
 
 ![alt text](screenshots/RunScreen.png "Example of screen after running Gibbs Sampler on a file with desired parameters")
 
