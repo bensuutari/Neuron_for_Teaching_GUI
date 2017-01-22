@@ -19,9 +19,9 @@ Credits:
 Carnevale, N.T. and Hines, M.L. The NEURON Book. 
 Cambridge, UK: Cambridge University Press, 2006. 
 
-
+##The Default Screen With Standard Parameters
 ![alt text](screenshots/Default_Screen.png "This is the screen you will see on opening")
-
+##Results of Running a Few Simulations With Different Parameters
 ![alt text](screenshots/RunScreen.png "Example of screen after running Gibbs Sampler on a file with desired parameters")
 
 
