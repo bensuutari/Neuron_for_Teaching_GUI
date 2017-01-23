@@ -369,8 +369,7 @@ class StartPage(tk.Frame):
 
 		
 app=ui_window()
-#app.protocol("WM_DELETE_WINDOW",)
-
+app.wm_title('NEURON Biophysics')
 app.mainloop()
 
 	
