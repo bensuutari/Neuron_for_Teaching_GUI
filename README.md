@@ -13,8 +13,7 @@ The basics of the neuron-python interface can be found here: http://www.neuron.y
 
 Credits:
 
-::::::::::::::::NEURON:::::::::::::::::::::::::
-Carnevale, N.T. and Hines, M.L. The NEURON Book. 
+NEURON, Carnevale, N.T. and Hines, M.L. The NEURON Book. 
 Cambridge, UK: Cambridge University Press, 2006. 
 
 ##	The Default Screen With Standard Parameters	##
