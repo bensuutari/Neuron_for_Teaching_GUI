@@ -13,8 +13,7 @@ The basics of the neuron-python interface can be found here: http://www.neuron.y
 
 Credits:
 
-::::::::::::::::Neuron:::::::::::::::::::::::::
-
+::::::::::::::::NEURON:::::::::::::::::::::::::
 Carnevale, N.T. and Hines, M.L. The NEURON Book. 
 Cambridge, UK: Cambridge University Press, 2006. 
 
