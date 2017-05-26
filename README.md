@@ -11,8 +11,7 @@ The model can be made more realistic by inserting more channels and adding dendr
 
 The basics of the neuron-python interface can be found here: http://www.neuron.yale.edu/neuron/static/new_doc/programming/python.html
 
-Credits:
-
+**	Credits:	**
 NEURON, Carnevale, N.T. and Hines, M.L. The NEURON Book. 
 Cambridge, UK: Cambridge University Press, 2006. 
 
